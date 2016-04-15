@@ -7,4 +7,4 @@ The code made the following things:
 -Read commands send by Electromagnetic Pulses with the coils.
 -Handle commands and make different actions: forward, turn left, turn right, turn around.
 
-This programm was fully test and works!
+This programm was fully tested and works!
